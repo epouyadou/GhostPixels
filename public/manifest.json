@@ -19,7 +19,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["main.js", "asset/main.css"],
+      "resources": ["main.js", "assets/main.css"],
       "matches": ["https://wplace.live/*"]
     }
   ],
